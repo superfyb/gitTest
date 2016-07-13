@@ -19,6 +19,7 @@
     NSLog(@"git_test_1");
     NSLog(@"git_test_2");
     NSLog(@"终端push");
+    NSLog(@"跳过使用暂存区域");
 }
 
 - (void)didReceiveMemoryWarning {
