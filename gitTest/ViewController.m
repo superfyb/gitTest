@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"git_test_1");
     NSLog(@"git_test_2");
+    NSLog(@"终端push");
 }
 
 - (void)didReceiveMemoryWarning {
